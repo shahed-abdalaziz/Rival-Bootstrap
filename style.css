@@ -285,7 +285,7 @@ body {
 }
 
 .card-team {
-    background-color: #121d2f;
+    background-color: #121d2f !important;
     height: 490px;
     border: 1px solid rgba(255, 255, 255, 0.1);
     border-radius: 8px;
@@ -318,8 +318,8 @@ body {
 }
 
 .cta-card {
-    background-color: rgba(255, 255, 255, 0.03);
-    border: 1px solid rgba(255, 255, 255, 0.1);
+    background-color: rgba(255, 255, 255, 0.03) !important;
+    border: 1px solid rgba(255, 255, 255, 0.1) !important;
     border-radius: 16px;
     backdrop-filter: blur(10px);
 }
@@ -356,7 +356,7 @@ body {
 }
 
 .card-contact {
-    background-color: #121d2f;
+    background-color: #121d2f !important;
 }
 
 .custom-input {
