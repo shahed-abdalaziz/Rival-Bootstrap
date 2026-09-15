@@ -202,3 +202,38 @@ body {
 }
 
 /* end portfolio */
+/* start why us */
+.why-us {
+    padding-top: 100px;
+    background-color: #0b1724;
+    height: auto;
+}
+
+.text-lime {
+    color: #c0e862;
+}
+
+.stat-card {
+    background-color: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    transition: all 0.3s ease-in-out;
+}
+
+.stat-card:hover {
+    background-color: rgba(255,
+            255,
+            255,
+            0.08);
+    border-color: rgba(255, 255, 255, 0.25);
+    transform: translateY(-5px);
+}
+
+.hr-why-us {
+    width: 500px;
+}
+
+.why-us-number {
+    color: greenyellow;
+}
+
+/* end why us */
